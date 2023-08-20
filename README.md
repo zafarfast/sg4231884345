@@ -2,16 +2,16 @@
 
 
 ## Table of Contents
-- [Description](#project-description)
-- [Usage](#usage)
-- [GitHub Link] (#github-link)
-- [Technologies used](#technologies-used)
-- [License](#license)
+- Description
+- GitGub Link
+- Technologies used
+- Controls
+- Rules
+- Screenshots
 
 
 ## Description
 Step back in time with the classic Snake game implemented in Python. In this nostalgic game, you control a pixelated snake that continuously grows longer as it devours apples. Navigate the snake around the screen using arrow keys, strategically collecting blue dots to increase your score and snake's length.
-
 
 ## GitHub Link
 https://github.com/zafarfast/sg4231884345
@@ -22,10 +22,10 @@ https://github.com/zafarfast/sg4231884345
 
 ## Controls
 
-Up arrow key - Changes the direction of snake head to up
-Down arrow key - Changes the direction of snake head to down
-Right arrow key - Changes the direction of snake head to right
-Left arrow key - Changes the direction of snake head to left
+- Up arrow key      - Changes the direction of snake head to up.
+- Down arrow key    - Changes the direction of snake head to down.
+- Right arrow key   - Changes the direction of snake head to right.
+- Left arrow key    - Changes the direction of snake head to left.
 
 
 ## Rules
@@ -53,9 +53,3 @@ These simple rules create a dynamic and addictive gameplay experience, where pla
 
 ![alt text](./images/screenshot.png)
 
-
-![alt text](./client/public/images/mobile1.jpg)
-
-![alt text](./client/public/images/mobile2.jpg)
-
-![alt text](./client/public/images/mobile3.jpg)
